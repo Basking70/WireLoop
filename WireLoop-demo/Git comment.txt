@@ -1,0 +1,26 @@
+ReadMe:
+
+for getting any branches: 
+git clone -b secondMaster https://github.com/sandeshhegde1/WireLoop.git
+
+for see branches:
+git branch
+
+for creating branch
+git checkout -b Basir
+
+for changing the branch
+git checkout Master
+
+for deleting branch
+git branch -d Basir
+
+for adding all changes
+git add -A
+
+
+for committing all the changes
+git commit -m "Added Songs"
+
+for pushing to your branch
+git push -u origin Basir

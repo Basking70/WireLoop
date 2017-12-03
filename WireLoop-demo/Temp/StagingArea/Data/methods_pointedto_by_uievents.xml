@@ -1,0 +1,58 @@
+<linker>
+	<assembly fullname="Assembly-UnityScript">
+		<type fullname="NewBehaviourScript">
+			<method name="About"/>
+			<method name="Quit"/>
+			<method name="NewGame"/>
+			<method name="Settings"/>
+			<method name="MainMenu"/>
+			<method name="MainMenu"/>
+			<method name="DifficultLevel"/>
+			<method name="MainMenu"/>
+			<method name="MediumLevel"/>
+			<method name="EasyLevel"/>
+			<method name="Introduction"/>
+			<method name="NewGame"/>
+		</type>
+		<type fullname="MovingStars">
+			<method name="MovingStars"/>
+		</type>
+		<type fullname="showhideloading">
+			<method name="show"/>
+			<method name="show"/>
+			<method name="show"/>
+		</type>
+	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Kudan.AR.Samples.SampleApp">
+			<method name="StartClicked"/>
+			<method name="MarkerlessClicked"/>
+			<method name="MarkerClicked"/>
+			<method name="StartClicked"/>
+			<method name="MarkerlessClicked"/>
+			<method name="MarkerClicked"/>
+			<method name="StartClicked"/>
+			<method name="MarkerlessClicked"/>
+			<method name="MarkerClicked"/>
+			<method name="StartClicked"/>
+			<method name="MarkerlessClicked"/>
+			<method name="MarkerClicked"/>
+		</type>
+		<type fullname="SceneChange">
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+		</type>
+		<type fullname="MSceneChange">
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+			<method name="changeScene"/>
+		</type>
+	</assembly>
+</linker>

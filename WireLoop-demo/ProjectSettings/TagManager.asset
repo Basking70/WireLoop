@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UiStar1
+  - UiStar3
+  - Health1
+  - Wire
+  - Health2
+  - UiStar2
+  - EndCube
+  - Health3
+  - StartCube
+  - Markerless
+  - Marker
+  - Star
+  - Loop
+  - IndicatorYellow
+  - IndicatorRed
+  - loadingsign
+  - Pipe_Part2_Head
+  - Pipe_Part2_End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

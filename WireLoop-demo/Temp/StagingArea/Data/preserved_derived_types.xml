@@ -1,0 +1,91 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="FlyBehaviour_RigidbodyVelocity" preserve="all"/>
+<type fullname="FlyBehaviour_TargetTransform" preserve="all"/>
+<type fullname="Kudan.AR.MarkerlessTouch" preserve="all"/>
+<type fullname="Kudan.AR.Samples.SampleApp" preserve="all"/>
+<type fullname="Kudan.AR.Samples.SampleScripting" preserve="all"/>
+<type fullname="ActivatedScript" preserve="all"/>
+<type fullname="TouchControl" preserve="all"/>
+<type fullname="MarkererlessEvents" preserve="all"/>
+<type fullname="Kudan.AR.MarkerEvents" preserve="all"/>
+<type fullname="Kudan.AR.KudanTracker" preserve="all"/>
+<type fullname="Kudan.AR.TargetNode" preserve="all"/>
+<type fullname="Kudan.AR.TrackableData" preserve="all"/>
+<type fullname="Kudan.AR.TrackingMethodBase" preserve="all"/>
+<type fullname="Kudan.AR.TrackingMethodMarker" preserve="all"/>
+<type fullname="Kudan.AR.TrackingMethodMarkerless" preserve="all"/>
+<type fullname="Kudan.AR.MarkerlessTransformDriver" preserve="all"/>
+<type fullname="Kudan.AR.MarkerTransformDriver" preserve="all"/>
+<type fullname="Kudan.AR.TransformDriverBase" preserve="all"/>
+<type fullname="camera_follow" preserve="all"/>
+<type fullname="ChangeMusicVolume" preserve="all"/>
+<type fullname="ClickButton" preserve="all"/>
+<type fullname="CollisionScript" preserve="all"/>
+<type fullname="HCollisionScript" preserve="all"/>
+<type fullname="loadingSign" preserve="all"/>
+<type fullname="MCollisionScript" preserve="all"/>
+<type fullname="MSceneChange" preserve="all"/>
+<type fullname="MSelfRotate" preserve="all"/>
+<type fullname="MStarRotate" preserve="all"/>
+<type fullname="NewBehaviourScript" preserve="all"/>
+<type fullname="SceneChange" preserve="all"/>
+<type fullname="starsmoving" preserve="all"/>
+<type fullname="starsmoving1" preserve="all"/>
+<type fullname="starsmoving2" preserve="all"/>
+<type fullname="TransformLook" preserve="all"/>
+<type fullname="SimpleHelvetica" preserve="all"/>
+</assembly>
+<assembly fullname="Assembly-UnityScript">
+<type fullname="MovingStars" preserve="all"/>
+<type fullname="NewBehaviourScript" preserve="all"/>
+<type fullname="showhideloading" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.UI">
+<type fullname="UnityEngine.EventSystems.EventSystem" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.UIBehaviour" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.BaseInput" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.BaseInputModule" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.PointerInputModule" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.TouchInputModule" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.BaseRaycaster" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.Physics2DRaycaster" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.PhysicsRaycaster" preserve="all"/>
+<type fullname="UnityEngine.UI.Button" preserve="all"/>
+<type fullname="UnityEngine.UI.Dropdown" preserve="all"/>
+<type fullname="UnityEngine.UI.Dropdown/DropdownItem" preserve="all"/>
+<type fullname="UnityEngine.UI.Graphic" preserve="all"/>
+<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all"/>
+<type fullname="UnityEngine.UI.Image" preserve="all"/>
+<type fullname="UnityEngine.UI.InputField" preserve="all"/>
+<type fullname="UnityEngine.UI.Mask" preserve="all"/>
+<type fullname="UnityEngine.UI.MaskableGraphic" preserve="all"/>
+<type fullname="UnityEngine.UI.RawImage" preserve="all"/>
+<type fullname="UnityEngine.UI.RectMask2D" preserve="all"/>
+<type fullname="UnityEngine.UI.Scrollbar" preserve="all"/>
+<type fullname="UnityEngine.UI.ScrollRect" preserve="all"/>
+<type fullname="UnityEngine.UI.Selectable" preserve="all"/>
+<type fullname="UnityEngine.UI.Slider" preserve="all"/>
+<type fullname="UnityEngine.UI.Text" preserve="all"/>
+<type fullname="UnityEngine.UI.Toggle" preserve="all"/>
+<type fullname="UnityEngine.UI.ToggleGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all"/>
+<type fullname="UnityEngine.UI.CanvasScaler" preserve="all"/>
+<type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all"/>
+<type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.HorizontalOrVerticalLayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.LayoutElement" preserve="all"/>
+<type fullname="UnityEngine.UI.LayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.BaseMeshEffect" preserve="all"/>
+<type fullname="UnityEngine.UI.Outline" preserve="all"/>
+<type fullname="UnityEngine.UI.PositionAsUV1" preserve="all"/>
+<type fullname="UnityEngine.UI.Shadow" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Analytics">
+<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
+</assembly>
+</linker>
